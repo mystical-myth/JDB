@@ -1,4 +1,7 @@
 <?php
+	if(!file_exists("class.encryption.php"))
+		die();
+	require_once "class.encryption.php";
 	class JDB
 	{
 		public $encrypted = false;
