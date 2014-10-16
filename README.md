@@ -30,6 +30,8 @@ $db->currArr["key"] = array();
 $db->currArr["str"] = "";
 etc...
 
+REMEMBER: File "class.encryption.php" must be in "class.jdb.php"'s directory to make it work!
+
 Credits
 =======
 Only me and my brain!
